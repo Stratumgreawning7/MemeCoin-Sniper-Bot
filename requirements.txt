@@ -1,0 +1,6 @@
+# Add the actual runtime dependencies of the application here.
+# Example:
+# requests>=2.31.0
+# python-dotenv>=1.0.0
+#
+# Keep this file synchronized with the application's imports.

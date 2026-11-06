@@ -1,0 +1,22 @@
+{
+  "application": {
+    "name": "NovaQuant Sniper Bot",
+    "environment": "production",
+    "log_level": "INFO"
+  },
+  "trading": {
+    "enabled": false,
+    "dry_run": true,
+    "max_position_size": 0,
+    "max_slippage_percent": 1.0,
+    "max_daily_loss": 0
+  },
+  "network": {
+    "request_timeout_seconds": 30,
+    "retry_attempts": 3
+  },
+  "security": {
+    "store_credentials_in_environment": true,
+    "log_sensitive_data": false
+  }
+}
