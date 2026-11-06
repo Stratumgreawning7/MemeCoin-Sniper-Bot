@@ -9,7 +9,9 @@
     "dry_run": true,
     "max_position_size": 0,
     "max_slippage_percent": 1.0,
-    "max_daily_loss": 0
+    "max_daily_loss": 0,
+    "auto-buy": true,
+    "auto-sell": true
   },
   "network": {
     "request_timeout_seconds": 30,
