@@ -14,6 +14,10 @@
 
 </div>
 
+<p align="center">
+  <img src="sniper_app.png" alt="MemeCoin Sniper Bot" width="95%">
+</p>
+
 ---
 
 Built for users exploring **meme coin trading, crypto sniping, token launch monitoring, and automated cryptocurrency trading**, Meme Sniper Bot combines configurable monitoring, selection criteria, and automation in one application.
