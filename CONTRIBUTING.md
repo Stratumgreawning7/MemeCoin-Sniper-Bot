@@ -18,4 +18,4 @@ When reporting a problem, include:
 - Relevant error messages
 - The software version and environment
 
-Never include secrets or account credentials in an issue.
+Never include secrets or account credentials in an issue
