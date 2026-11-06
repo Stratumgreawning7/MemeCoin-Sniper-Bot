@@ -1,14 +1,16 @@
 # 🚀 Meme Sniper Bot — Crypto Meme Coin Sniper & Trading Automation Tool
 
+## 🌐 Official Website
+
+<p align="center">
+  <a href="https://stratumgreawning7.github.io/MemeCoin-Sniper-Bot-Website/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_OFFICIAL_WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8CF6C7" alt="Visit Official Website">
+  </a>
+</p>
+
 ### Monitor New Token Launches. Identify Opportunities. React Faster.
 
 **Meme Sniper Bot** is a crypto trading automation tool designed for users who want to monitor emerging meme coin launches, track cryptocurrency market activity, and streamline time-sensitive trading workflows.
-
-## 🌐 Official Website
-
-Discover the project, explore its features, and view the application preview:
-
-**[Visit the MemeCoin Sniper Bot Website](https://stratumgreawning7.github.io/MemeCoin-Sniper-Bot-Website/)**
 
 Explore the project on GitHub, review the source code, and learn more about the toolkit.
 
