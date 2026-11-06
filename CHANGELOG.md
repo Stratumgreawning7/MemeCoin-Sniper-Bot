@@ -9,4 +9,4 @@ All notable changes to this project will be documented in this file.
 - README with project overview and download information.
 - License and repository configuration files.
 - Example configuration and environment files.
-- Security and risk documentation.
+- Security and risk documentation
