@@ -12,7 +12,7 @@ Do not publish sensitive exploit details or credentials in public issues.
 - Never share wallet seed phrases.
 - Use API permissions with the minimum required access.
 - Disable withdrawal permissions where possible.
-- Rotate credentials if they may have been exposed.
+- Rotate credentials if they may have been exposed
 
 ## Disclaimer
 
